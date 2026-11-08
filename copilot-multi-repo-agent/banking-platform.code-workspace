@@ -1,0 +1,14 @@
+{
+  "folders": [
+    { "name": "_platform-hub", "path": "platform-hub" },
+    { "name": "customer-api", "path": "customer-api" },
+    { "name": "servicing-orchestrator", "path": "servicing-orchestrator" },
+    { "name": "notification-service", "path": "notification-service" }
+  ],
+  "settings": {
+    "chat.useAgentsMdFile": true,
+    "git.openRepositoryInParentFolders": "always",
+    "git.autoRepositoryDetection": true,
+    "files.exclude": { "**/node_modules": true, "**/target": true, "**/bin": true, "**/obj": true }
+  }
+}
