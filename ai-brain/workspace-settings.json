@@ -1,0 +1,6 @@
+"chat.agentFilesLocations": {
+  "C:/Users/<you>/ai-brain/.github/agents": true
+},
+"chat.promptFilesLocations": {
+  "C:/Users/<you>/ai-brain/.github/prompts": true
+}
